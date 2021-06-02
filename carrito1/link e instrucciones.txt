@@ -1,0 +1,13 @@
+https://evilnapsis.com/2016/10/30/ejemplo-de-carrito-de-compras-sencillo-con-php-y-mysql/
+
+1. Crear la BD, archivo schema.sql
+
+2. Probar index.php con su estilo
+
+3. Adaptar el archivo php/connection.php
+
+4. Probar link Productos
+
+
+
+
